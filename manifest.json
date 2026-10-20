@@ -1,0 +1,22 @@
+ {
+  "id": "./index.html",
+  "name": "Plixar-Visium — Каталог фильмов и подбор",
+  "short_name": "Plixar-Visium",
+  "description": "Каталог фильмов, личные заметки, подбор и история просмотров.",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
